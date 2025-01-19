@@ -1,0 +1,7 @@
+This is a React Native app.
+1, No registration required, and no internet connection needed.
+2, All data is stored locally on your device. Please note that data cannot be migrated when changing devices, but we are currently developing data import/export features.
+3, Bug fixes and version updates may be released at a slower pace, so your patience is appreciated.
+4, All game-related data should be entered manually.
+5, Our app comes preloaded with key strategies for two games, provided for your convenience.
+6, This is a labor of love from the developer, and we hope you enjoy it!",
